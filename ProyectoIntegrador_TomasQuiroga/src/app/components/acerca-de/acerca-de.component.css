@@ -4,14 +4,14 @@
     top: 80%;
 }
 div{
-    background-color: rgb(74, 81, 92);
+    background-color: rgb(74, 81, 92, 0);
     text-align: center;
 
 }
 /*estilo de la foto de perfil*/
 @media (min-width: 576px){
     #fotoperfil {
-        border-radius: 100%;
+        border-radius: 50%;
         position: absolute;
         width: 12%;
         box-shadow: 3px 3px 3px gray;
