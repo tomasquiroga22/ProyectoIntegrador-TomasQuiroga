@@ -1,5 +1,7 @@
 .row{
     padding: 20px;
+    position: absolute;
+    top: 80%;
 }
 div {
     background: rgb(71, 86, 115);
