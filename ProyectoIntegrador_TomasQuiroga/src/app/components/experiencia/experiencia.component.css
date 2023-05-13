@@ -4,7 +4,7 @@
     top: 80%;
 }
 div {
-    background: rgb(71, 86, 115);
+    background: rgb(71, 86, 115,0);
 }
 h1, h3{
     display: inline;

@@ -2,6 +2,7 @@
     padding: 20px;
     position: absolute;
     top: 50%;
+
 }
 div{
     background-color: rgb(74, 81, 92, 0);
@@ -15,12 +16,22 @@ div{
         position: absolute;
         width: 12%;
         box-shadow: 3px 3px 3px gray;
-        right: 85%;
-        top: -50%;
+        bottom: 20px;
+        right:85%;
+    }
+
+}
+@media (max-width: 576px){
+    #fotoperfil {
+        border-radius: 50%;
+        position: absolute;
+        width: 20%;
+        box-shadow: 3px 3px 3px gray;
+       left: 5%;
+        top: 5%;
+       
     }
 }
-
-
 /*Etiqueta nombre*/
  #nombre {
     font-weight: bold;
